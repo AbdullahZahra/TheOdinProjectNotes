@@ -10,7 +10,7 @@ My decision came after a year of continuous trials to enter the backend field. I
 
 #### Prerequisites
 
-- [ ] Computer Basics.
+- [x] Computer Basics.
 - [ ] How Does the Web Work?
 - [ ] Installation Overview.
 - [ ] Installations.
