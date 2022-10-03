@@ -10,13 +10,13 @@ My decision came after a year of continuous trials to enter the backend field. I
 
 #### Prerequisites
 
-[ ] Computer Basics.
-[ ] How Does the Web Work?
-[ ] Installation Overview.
-[ ] Installations.
-[ ] Text Editors.
-[ ] Command Line Basics.
-[ ] Setting Up Git.
+- [ ] Computer Basics.
+- [ ] How Does the Web Work?
+- [ ] Installation Overview.
+- [ ] Installations.
+- [ ] Text Editors.
+- [ ] Command Line Basics.
+- [ ] Setting Up Git.
 
 #### Git Basics
 
